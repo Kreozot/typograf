@@ -7,8 +7,8 @@
     "email": "hcodes@yandex.ru",
     "url": "https://github.com/typograf/typograf"
   },
-  "main": "dist/typograf.js",
-  "module": "dist/typograf.es.mjs",
+  "main": "./dist/typograf.js",
+  "module": "./dist/typograf.es.mjs",
   "exports": {
     "require": "./dist/typograf.js",
     "import": "./dist/typograf.es.mjs"
